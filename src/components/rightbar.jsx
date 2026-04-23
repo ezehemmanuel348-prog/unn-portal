@@ -107,7 +107,7 @@ export default function Rightbar() {
         <div className='m-6 font-bold border border-gray-400 text-gray-900 bg-white rounded-sm'>
             <div className='border-b border-gray-400 p-2 text-sm'>Announcements</div>
             <div className='flex justify-center mt-12'>
-                <img src="./images/annouce.png" alt="" className='w-60' />
+                <img src="/images/annouce.png" alt="" className='w-60' />
                 
             </div>
             <div className='flex justify-center mt-6 mb-8'>

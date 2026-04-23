@@ -7,7 +7,7 @@ export default function Sidebar() {
     <div>
         <div className='flex m-3 justify-between'>
         <div className='flex gap-15'>
-            <img src=" ./images/passport.jpeg" alt="" className='ml-7 w-16 h-16 rounded-full'/>
+            <img src=" /images/passport.jpeg" alt="" className='ml-7 w-16 h-16 rounded-full'/>
         <span className='font-bold text-gray-700 '>
         <p className='text-xl'>OHAM PRECIOUS IFESINACHI UGOEZE</p>
             <span className='flex space-x-1 ml-3 text-sm'>

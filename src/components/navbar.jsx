@@ -11,7 +11,7 @@ export default function Navbar() {
     ><path d="M3 6H21" stroke="currentColor"  strokeWidth="2" strokeLinecap="round"   /><path  d="M3 12H21" stroke="currentColor" strokeWidth="2"strokeLinecap="round"  /><path d="M3 18H21" stroke="currentColor" strokeWidth="2" strokeLinecap="round" /> </svg>
 
     <span className='flex space-x-2'>
-            <img src="./images/8660488-middle.png" alt="" className='w-6 h-6 rounded-full' />
+            <img src= "/images/8660488-middle.png"alt="" className='w-6 h-6 rounded-full' />
             <p className='font-bold text-green-600'>University of Nigeria</p>
         </span>
 
@@ -35,7 +35,7 @@ export default function Navbar() {
         />
       </g>
     </svg>
-    <img src=".\images\passport.jpeg" alt="" className='w-7 h-7 rounded-full' />
+    <img src="/images/passport.jpeg" alt="" className='w-7 h-7 rounded-full' />
         </span>
         </div>
     </div>

@@ -6,7 +6,7 @@ export default function Mainsidebar() {
   return (
     <div className='font-bold text-xs ml-8 text-gray-800 w-45'>
         <div className='border-b border-gray-300'>
-        <img src="./images/passport.jpeg" alt="" className='ml-9 w-16 h-16 rounded-full' />
+        <img src="/images/passport.jpeg" alt="" className='ml-9 w-16 h-16 rounded-full' />
         <p className='text-xl'>OHAM PRECIOUS IFESINACHI UGOEZE</p>
         
         <p className='text-gray-500 ml-12 mt-1'>100 LEVEL</p>
